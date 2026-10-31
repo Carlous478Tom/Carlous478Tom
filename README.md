@@ -1,10 +1,10 @@
 # Hi there 👋
 
-🔐 Cybersecurity student
-🛡️ Interested in network security, ethical hacking and secure web development
-🌱 Currently learning **Python, JavaScript, HTML and CSS**
-🎬 Also into video creation and editing
-🤝 Open to connecting, collaborating and learning from others
+- 🔐 Cybersecurity student
+- 🛡️ Interested in network security, ethical hacking and secure web development
+- 🌱 Currently learning **Python, JavaScript, HTML and CSS**
+- 🎬 Also into video creation and editing
+- 🤝 Open to connecting, collaborating and learning from others
 
 ## 🛠️ Tools I use
 
