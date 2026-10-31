@@ -22,4 +22,4 @@ Coming soon. I'm uploading my first projects now, so check back!
 
 ## 📫 Get in touch
 
-LinkedIn: coming soon
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahrin%20Tamim-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahrin-tamim-60a7ab233/)
