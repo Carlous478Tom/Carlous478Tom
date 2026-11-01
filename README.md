@@ -1,6 +1,7 @@
-# Hi there 👋
+# Hi there, I'm Tahrin 👋
 
-- 🔐 Cybersecurity student
+- 🔐 Bachelor of Cybersecurity student at **Swinburne University of Technology Sarawak**
+- 🎓 Completed my Foundation in Science at Swinburne Sarawak
 - 🛡️ Interested in network security, ethical hacking and secure web development
 - 🌱 Currently learning **Python, JavaScript, HTML and CSS**
 - 🎬 Also into video creation and editing
@@ -22,4 +23,4 @@ Coming soon. I'm uploading my first projects now, so check back!
 
 ## 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahrin%20Tamim-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahrin-tamim-60a7ab233/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahrin%20Tamim%20Akbor-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahrin-tamim-akbor-60a7ab233/)
