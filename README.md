@@ -2,6 +2,7 @@
 
 - 🔐 Bachelor of Cybersecurity student at **Swinburne University of Technology Sarawak**
 - 🎓 Completed my Foundation in Science at Swinburne Sarawak
+- 🌏 Originally from Bangladesh, now based in Kuching, Sarawak, Malaysia
 - 🛡️ Interested in network security, ethical hacking and secure web development
 - 🌱 Currently learning **Python, JavaScript, HTML and CSS**
 - 🎬 Also into video creation and editing
